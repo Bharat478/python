@@ -17,4 +17,5 @@ l1.insert(3,2.5)
 print(l1)
 l1.append(9)
 print(l1)
-# Bharat Roka
+l1.remove(4)
+print(l1)
